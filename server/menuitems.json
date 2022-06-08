@@ -1,0 +1,42 @@
+{
+    "menuitems":[
+        {
+            "id":1,
+            "name":"Cheeseburger",
+            "price":"$18.3",
+            "url":"./images/cheeseBerger.jpg"
+        },
+        {
+            "id":2,
+            "name":"Don Bacon",
+            "price":"$24.1",
+            "url":"./images/donbacon.jpg"
+        },
+        {
+            "id":3,
+            "name":"Carne",
+            "price":"$32.3",
+            "url":"./images/cheeseBerger.jpg"
+        },
+        {
+            "id":4,
+            "name":"Juilinene",
+            "price":"$21.3",
+            "url":"./images/cheeseBerger.jpg"
+        },
+        {
+            "id":5,
+            "name":"5 Cheese",
+            "price":"$45.2",
+            "url":"./images/cheeseBerger.jpg"
+        },
+        {
+            "id":6,
+            "name":"Cipilo",
+            "price":"$14.8",
+            "url":"./images/cheeseBerger.jpg"
+        }
+
+
+    ]
+}
